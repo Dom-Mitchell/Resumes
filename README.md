@@ -18,3 +18,25 @@ For a link to my **current** resume as a `PDF` and in `DOC` form please see belo
 
 <a href="https://github.com/Domanator13/Resumes/raw/trunk/DOM%20RESUME%20v3.pdf"><img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="50"/></a>
 <a href="https://github.com/Domanator13/Resumes/raw/trunk/DOM%20RESUME%20v3.docx"><img src="https://cdn-icons-png.flaticon.com/512/337/337932.png" width="50"/></a>
+
+## Link didn't work?
+
+Here's a manual link
+
+<br />
+
+PDF File
+
+```html
+https://github.com/Domanator13/Resumes/raw/trunk/DOM%20RESUME%20v3.pdf
+```
+Copy and paste this link into the search bar for whatever browser you are using.
+
+<br />
+
+DOC File
+
+```html
+https://github.com/Domanator13/Resumes/raw/trunk/DOM%20RESUME%20v3.docx
+```
+Copy and paste this link into the search bar for whatever browser you are using.
