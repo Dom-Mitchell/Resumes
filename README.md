@@ -4,7 +4,7 @@
 
 ## Goal
 
-The goal of this assignment was to create a working résumé for mock interviews that took place on Friday, September 31st, 2021, `9/31/2021` at Suncoast Developers Guild, `SDG`.
+The goal of this assignment was to create a working résumé for mock interviews that took place on Friday, October 1st, 2021, `10/1/2021` at Suncoast Developers Guild, `SDG`.
 
 <a alt="SDG Logo" href="https://suncoast.io"><img alt="SDG Logo" src="https://suncoast.io/brand/banner.svg"/></a>
 
