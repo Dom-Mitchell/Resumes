@@ -20,8 +20,8 @@ My initial as well as my future resumes will be stored here.
 
 For a link to my **current** resume as a `PDF` and in `DOC` form please see below
 
-<a href="https://github.com/Domanator13/Resumes/raw/trunk/DOM%20RESUME%20v3.pdf"><img src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="100"/></a>
-<a href="https://github.com/Domanator13/Resumes/raw/trunk/DOM%20RESUME%20v3.docx"><img src="https://cdn-icons-png.flaticon.com/512/337/337932.png" width="100"/></a>
+<a alt="Download PDF File" href="https://github.com/Domanator13/Resumes/raw/trunk/Current/DOM%20RESUME%20v3.pdf"><img alt="PDF File Icon" src="https://cdn-icons-png.flaticon.com/512/337/337946.png" width="100"/></a>
+<a alt="Download DOC File" href="https://github.com/Domanator13/Resumes/raw/trunk/Current/DOM%20RESUME%20v3.docx"><img alt="DOC File Icon" src="https://cdn-icons-png.flaticon.com/512/337/337932.png" width="100"/></a>
 
 ## Broken Link?
 
@@ -32,7 +32,7 @@ Here's a manual link
 PDF File
 
 ```html
-https://github.com/Domanator13/Resumes/raw/trunk/DOM%20RESUME%20v3.pdf
+https://github.com/Domanator13/Resumes/raw/trunk/Current/DOM%20RESUME%20v3.pdf
 ```
 
 Copy and paste this link into the search bar for whatever browser you are using.
@@ -42,7 +42,7 @@ Copy and paste this link into the search bar for whatever browser you are using.
 DOC File
 
 ```html
-https://github.com/Domanator13/Resumes/raw/trunk/DOM%20RESUME%20v3.docx
+https://github.com/Domanator13/Resumes/raw/trunk/Current/DOM%20RESUME%20v3.docx
 ```
 
 Copy and paste this link into the search bar for whatever browser you are using.
